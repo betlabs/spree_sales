@@ -9,14 +9,14 @@ ru:
     add_product_sale_prices: "Добавить цену со скидкой"
     sale_price_start_at: "Начальная дата скидки"
     sale_price_end_at: "Конечная дата скидки"
-    sale_price_enabled: "Рабочая"
+    sale_price_enabled: "Включена"
     sale_price_active: "Активная"
     on_sale_from: "Распродажа от: "
     sale_calculators:
       amount_sale_price_calculator:
-        name: "Продажная цена"
+        name: "Цена со скидкой"
       percent_off_sale_price_calculator:
-        name: "Процент с искомой цены"
+        name: "Процент от искомой цены"
     all_currencies: "Все валюты"
   activerecord:
     attributes:
